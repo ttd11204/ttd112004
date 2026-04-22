@@ -21,18 +21,31 @@
 
 ## 🛠 Tech Stack
 
-**Languages**
-TypeScript • JavaScript • C#
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
+![C#](https://img.shields.io/badge/-CSharp-000?logo=csharp)
 
-**Frontend**
-React.js • Next.js • Redux Toolkit • TanStack Query
-Tailwind CSS • ShadCN UI
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/-React-000?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-000?logo=redux)
+![React Query](https://img.shields.io/badge/-ReactQuery-000?logo=reactquery)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?logo=tailwindcss)
+![ShadCN](https://img.shields.io/badge/-ShadCN-000)
 
-**Web**
-REST API • HTML5 • CSS3
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/-HTML5-000?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?logo=css3)
+![REST API](https://img.shields.io/badge/-REST_API-000)
 
-**Tools**
-Git • GitHub • Postman • Firebase • Docker • Jest
+### 🛠 Tools
+![Git](https://img.shields.io/badge/-Git-000?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
+![Postman](https://img.shields.io/badge/-Postman-000?logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
+![Firebase](https://img.shields.io/badge/-Firebase-000?logo=firebase)
+![Jest](https://img.shields.io/badge/-Jest-000?logo=jest)
 
 ---
 
