@@ -38,6 +38,14 @@
   <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge"/>
 </p>
 
+### ⚙️ Backend & API
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_API-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RESTful_API-000000?style=for-the-badge"/>
+</p>
+
 ### 🌐 Web
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
