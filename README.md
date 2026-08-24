@@ -98,7 +98,7 @@
 ### Full-stack Developer – PBrain (Jul 2025 – Dec 2025)
 
 * Translated business requirements into technical solutions
-* Developed full-stack features using React.js, TypeScript, ASP.NET Core
+* Developed full-stack features using TypeScript, ASP.NET Core
 * Improved performance and built reusable UI components
 * Contributed to core booking system design
 
