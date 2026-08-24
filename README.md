@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tran Thanh Dat
 
 <p align="center">
-  <b>Full-stack Developer</b> | React.js • Next.js • ASP.NET Core
+  <b>Full-stack Developer</b>
 </p>
 
 <p align="center">
